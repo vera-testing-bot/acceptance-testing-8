@@ -1,3 +1,4 @@
+<!-- README header: created by the acceptance shard seed script -->
 # Acceptance shard repo
 
 This repository exists only to give Vera's nightly staging acceptance suite a
